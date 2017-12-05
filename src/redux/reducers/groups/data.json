@@ -1,0 +1,50 @@
+[
+   {
+      "name": "ASIA PACIFIC",
+      "id": "4"
+   },
+   {
+      "name": "EUROPE",
+      "id": "2"
+   },
+   {
+      "name": "FRANCE",
+      "id": "6"
+   },
+   {
+      "name": "GR1",
+      "id": "8"
+   },
+   {
+      "name": "GR2",
+      "id": "9"
+   },
+   {
+      "name": "MAINTENANCE",
+      "id": "11"
+   },
+   {
+      "name": "METERA",
+      "id": "5"
+   },
+   {
+      "name": "NORTH AMERICA",
+      "id": "1"
+   },
+   {
+      "name": "POC Enviromap",
+      "id": "7"
+   },
+   {
+      "name": "SOUTH AMERICA",
+      "id": "3"
+   },
+   {
+      "name": "test GCS",
+      "id": "10"
+   },
+   {
+      "name": "WORLD - All sites",
+      "id": "0"
+   }
+]

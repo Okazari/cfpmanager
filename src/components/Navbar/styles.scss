@@ -1,0 +1,25 @@
+@import '~styles/shadows';
+@import '~styles/colors';
+$navbarHeight: 60px;
+
+.container {
+  display: flex;
+  justify-content: center;
+  height: $navbarHeight;
+  align-items: flex-end;
+}
+
+.navbar {
+  display: flex;
+  border-bottom: 1px solid #CCC;
+  padding: 0px 50px;
+}
+
+.item {
+  padding: 10px 40px;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  &:hover, &.active {
+    border-bottom-color: darkred;
+  }
+}

@@ -1,0 +1,816 @@
+[
+	{
+		"title": "Fridge R1 - 1",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "MAINTENANCE",
+						"id": "11"
+					},
+					{
+						"name": "NORTH AMERICA",
+						"id": "1"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R1 - 1",
+			"id": "1",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Fridge R1 - 2",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "NORTH AMERICA",
+						"id": "1"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R1 - 2",
+			"id": "2",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Deep Freezer R1",
+		"description": "\nlow limit exceeded, last measurement : -90,00°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 17:00:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "MAINTENANCE",
+						"id": "11"
+					},
+					{
+						"name": "NORTH AMERICA",
+						"id": "1"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Deep Freezer R1",
+			"id": "5",
+			"sound": "false",
+			"last_measure": "-90.00",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Incubator R1 - 1",
+		"description": "\nlow limit exceeded, last measurement : 36,13°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 12:30:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "MAINTENANCE",
+						"id": "11"
+					},
+					{
+						"name": "NORTH AMERICA",
+						"id": "1"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R1 - 1",
+			"id": "9",
+			"sound": "false",
+			"last_measure": "36.13",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Incubator R2 - 1",
+		"description": "\nlow limit exceeded, last measurement : 36,13°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 12:30:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "EUROPE",
+						"id": "2"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R2 - 1",
+			"id": "10",
+			"sound": "false",
+			"last_measure": "36.13",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Incubator R2 - 2",
+		"description": "\nlow limit exceeded, last measurement : 36,13°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 12:30:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "EUROPE",
+						"id": "2"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R2 - 2",
+			"id": "11",
+			"sound": "false",
+			"last_measure": "36.13",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Fridge R2 - 1",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "EUROPE",
+						"id": "2"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R2 - 1",
+			"id": "12",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Fridge R2 - 2",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "EUROPE",
+						"id": "2"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R2 - 2",
+			"id": "13",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Deep Freezer R2",
+		"description": "\nlow limit exceeded, last measurement : -90,00°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 17:00:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "EUROPE",
+						"id": "2"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Deep Freezer R2",
+			"id": "16",
+			"sound": "false",
+			"last_measure": "-90.00",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Incubator R3 - 2",
+		"description": "\nlow time limit exceeded, last measurement : 36,03°C the 16/09/2017 at 05:03 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "32",
+				"begin": "Sat, 16 Sep 2017 01:48:32 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "SOUTH AMERICA",
+						"id": "3"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R3 - 2",
+			"id": "20",
+			"sound": "false",
+			"last_measure": "36.03",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:03:17 GMT"
+		}
+	},
+	{
+		"title": "Incubator R3 - 1",
+		"description": "\nlow limit exceeded, last measurement : 36,03°C the 16/09/2017 at 05:03 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 15:48:07 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "SOUTH AMERICA",
+						"id": "3"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R3 - 1",
+			"id": "21",
+			"sound": "false",
+			"last_measure": "36.03",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:03:26 GMT"
+		}
+	},
+	{
+		"title": "Fridge R3 - 2",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "SOUTH AMERICA",
+						"id": "3"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R3 - 2",
+			"id": "22",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Fridge R3 - 1",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "SOUTH AMERICA",
+						"id": "3"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R3 - 1",
+			"id": "23",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Deep Freezer R3",
+		"description": "\nlow limit exceeded, last measurement : -88,55°C the 16/09/2017 at 05:03 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 17:48:14 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "SOUTH AMERICA",
+						"id": "3"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Deep Freezer R3",
+			"id": "26",
+			"sound": "false",
+			"last_measure": "-88.55",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:03:08 GMT"
+		}
+	},
+	{
+		"title": "Humidity R3",
+		"description": "\nlow limit exceeded, last measurement : 47,87%RH the 16/09/2017 at 05:03 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 21:18:35 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "SOUTH AMERICA",
+						"id": "3"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Humidity R3",
+			"id": "28",
+			"sound": "false",
+			"last_measure": "47.87",
+			"symbol": "%RH",
+			"date": "Sat, 16 Sep 2017 03:03:22 GMT"
+		}
+	},
+	{
+		"title": "Incubator R4 - 2",
+		"description": "\nlow limit exceeded, last measurement : 36,09°C the 16/09/2017 at 05:01 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 11:49:53 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "ASIA PACIFIC",
+						"id": "4"
+					},
+					{
+						"name": "EUROPE",
+						"id": "2"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R4 - 2",
+			"id": "30",
+			"sound": "false",
+			"last_measure": "36.09",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:01:53 GMT"
+		}
+	},
+	{
+		"title": "Incubator R4 - 1",
+		"description": "\nlow limit exceeded, last measurement : 36,13°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 12:30:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "ASIA PACIFIC",
+						"id": "4"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R4 - 1",
+			"id": "31",
+			"sound": "false",
+			"last_measure": "36.13",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Fridge R4 - 1",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "ASIA PACIFIC",
+						"id": "4"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R4 - 1",
+			"id": "32",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Fridge R4 - 2",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "ASIA PACIFIC",
+						"id": "4"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R4 - 2",
+			"id": "33",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Deep Freezer R4",
+		"description": "\nlow limit exceeded, last measurement : -90,00°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 17:00:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "ASIA PACIFIC",
+						"id": "4"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Deep Freezer R4",
+			"id": "36",
+			"sound": "false",
+			"last_measure": "-90.00",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Incubator R5 - 2",
+		"description": "\nlow limit exceeded, last measurement : 36,13°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 12:30:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "METERA",
+						"id": "5"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R5 - 2",
+			"id": "40",
+			"sound": "false",
+			"last_measure": "36.13",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Incubator R5 - 1",
+		"description": "\nlow limit exceeded, last measurement : 36,13°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 12:30:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "METERA",
+						"id": "5"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Incubator R5 - 1",
+			"id": "41",
+			"sound": "false",
+			"last_measure": "36.13",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Fridge R5 - 2",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "METERA",
+						"id": "5"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R5 - 2",
+			"id": "42",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Fridge R5 - 1",
+		"description": "\nHigh limit exceeded, last measurement : 8,423°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 02:45:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "METERA",
+						"id": "5"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Fridge R5 - 1",
+			"id": "43",
+			"sound": "false",
+			"last_measure": "8.423",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "Deep Freezer R5",
+		"description": "\nlow limit exceeded, last measurement : -90,00°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Fri, 15 Sep 2017 17:00:00 GMT"
+			},
+			"groups": {
+				"group": [
+					{
+						"name": "METERA",
+						"id": "5"
+					},
+					{
+						"name": "WORLD - All sites",
+						"id": "0"
+					}
+				]
+			},
+			"name": "Deep Freezer R5",
+			"id": "46",
+			"sound": "false",
+			"last_measure": "-90.00",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "bf9298010000",
+		"description": "\nlow limit exceeded, last measurement : -81,00°C the 16/09/2017 at 05:00 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "16",
+				"begin": "Sat, 16 Sep 2017 03:00:00 GMT"
+			},
+			"groups": {
+				"group": {
+					"name": "POC Enviromap",
+					"id": "7"
+				}
+			},
+			"name": "bf9298010000",
+			"id": "54",
+			"sound": "false",
+			"last_measure": "-81.00",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:00:00 GMT"
+		}
+	},
+	{
+		"title": "d8373b000000",
+		"description": "\nHigh limit exceeded, last measurement : 35,74°C the 16/09/2017 at 05:16 (GMT+0200)\n",
+		"author": "Labguard",
+		"pubDate": "Fri, 29 Sep 2017 08:02:54 GMT",
+		"channelData": {
+			"alert": {
+				"type": "4",
+				"begin": "Sat, 16 Sep 2017 03:08:09 GMT"
+			},
+			"groups": {
+				"group": {
+					"name": "POC Enviromap",
+					"id": "7"
+				}
+			},
+			"name": "d8373b000000",
+			"id": "55",
+			"sound": "false",
+			"last_measure": "35.74",
+			"symbol": "°C",
+			"date": "Sat, 16 Sep 2017 03:16:07 GMT"
+		}
+	}
+]
