@@ -17,7 +17,7 @@ const Event = ({ name, description, submitted, status, accepted }) => {
         <div>
           <div>
             <span className={styles.emphasis}>{submitted}</span>
-            conference submitted
+            conferences Z submitted
           </div>
           <div>
             <span className={cx(styles.emphasis, styles.good)}>{accepted}</span>
