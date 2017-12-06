@@ -21,40 +21,5 @@ $app-background-color: #F5F5F5;
   overflow: auto;
   padding: 20px;
   display: flex;
-  align-items: center;
   flex-wrap: wrap;
-}
-
-.conf {
-  background-color: $white;
-  width: calc(25vw - 80px);
-  height: calc(25vw - 80px);
-  padding: 20px;
-  margin: 10px;
-  box-shadow: $box-shadow-1;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.title {
-  font-weight: bold;
-  border-bottom: 1px solid darkgrey;
-  padding: 5px;
-}
-
-.description {
-  padding: 20px 5px;
-  text-align: justify;
-  justify-self: flex-start;
-}
-
-.infos {
-  padding: 5px;
-  border-top: 1px solid darkgrey;
-}
-
-.submitted {
-  margin: 0px 3px;
-  font-weight: bold;
 }
